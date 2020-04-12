@@ -2,16 +2,16 @@
 layout: default
 ---
 <style>
-  .col-3  {
-    width:33%;
+  .cols  {
+    width:100%;
     height:auto;
     display:inline-block;
   }
   .thumbnail {
     border:1px solid #cccccc;
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 90vw;
+    height: 90vw;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -31,6 +31,17 @@ layout: default
     width: 100%;
     height: auto;
   }
+  @media only screen and (min-width: 800px) {
+    .cols  {
+      width:33%;
+      height:auto;
+      display:inline-block;
+    }
+    .thumbnail {
+      width: 215px;
+      height: 215px;
+    }
+  }
 </style>
 
 
@@ -38,16 +49,16 @@ layout: default
 <h1>{{ page.title }}</h1>
 <!--
 {% for post in site.tags[page.tag] %}
-    --><div class="col-3 text-center">
+    --><div class="cols text-center">
       <div class="thumbnail">
       <a href="{{ post.url }}">
         <img src="/assets/img/{{ post.title || replace: " ", "-" || downcase }}.jpg" class="drawing" alt="illustration preview">
       </a>
     </div>
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" class="mb-1">
       {{ post.title }}
     </a>
-    {{ post.description }}
+    <p class="mb-1">{{ post.description }}</p>
     </div><!--
 {% endfor %}
 -->
