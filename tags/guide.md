@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: guide"
+title: "Guides"
 tag: guide
 ---
