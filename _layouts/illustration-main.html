@@ -52,7 +52,7 @@ layout: default
     --><div class="cols text-center">
       <div class="thumbnail">
       <a href="{{ post.url }}">
-        <img src="/assets/img/{{ post.title || replace: " ", "-" || downcase }}.jpg" class="drawing" alt="illustration preview">
+        <img src="/assets/img/{{ post.title || replace: " ", "-" || downcase }}.jpg" class="drawing" alt=" {{ post.title }} illustration preview">
       </a>
     </div>
     <a href="{{ post.url }}" class="mb-1" style="display:none;">
