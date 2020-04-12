@@ -7,13 +7,13 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {% else %}
-    <h1 class="page-heading">Illustrations, sketches, and art supply reviews</h1>
+    <h1 class="page-heading">Illustrations, Sketches, and Art Supply reviews by Timothy Weaver</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "All Posts" }}</h2>
     <ul class="post-list">
       {%- for post in paginator.posts -%}
       <li>
