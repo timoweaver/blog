@@ -4,11 +4,6 @@ layout: default
 
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {% else %}
-    <h1 class="page-heading">Illustrations, Sketches, and Art Supply reviews by Timothy Weaver</h1>
-  {%- endif -%}
 
   {{ content }}
 
@@ -25,7 +20,7 @@ layout: default
           </a>
         </h3>
         {{ post.excerpt }}
-        <a class="btn-read-more" href="{{ post.url | relative_url }}">
+        <a class="btn-read-more mv-1" href="{{ post.url | relative_url }}">
           Read More
         </a>
         <hr class="mv-3">
@@ -57,6 +52,11 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{% else %}
+  <h1 class="page-heading mv-2">Illustrations, Sketches, and Art Supply Reviews</h1>
+{%- endif -%}
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
