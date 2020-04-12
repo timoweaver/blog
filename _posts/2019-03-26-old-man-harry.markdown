@@ -6,4 +6,4 @@ categories: [illustration]
 tags: [illustration]
 ---
 
-![Pentel Pocket Brush Pen Posted](/assets/img/old-man-harry.jpg)
+![Old Man Illustration ink halftone screentone deleter](/assets/img/old-man-harry.jpg)
