@@ -3,7 +3,7 @@ layout: post
 title:  "East Hill Tombstone White Brush Pen Review"
 date:   2018-06-02 15:18:53
 categories: [review]
-tags: [white out, brushpen]
+tags: [review]
 ---
 
 ![East Hill Tombstone White Brush Pen Uncapped](/assets/img/blog-images/pen-uncapped.jpg)

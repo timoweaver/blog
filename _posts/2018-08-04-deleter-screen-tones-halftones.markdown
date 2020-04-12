@@ -3,7 +3,7 @@ layout: post
 title:  "Deleter Screen Tones & Halftones"
 date:   2018-08-04 11:17:58 -0400
 categories: [guide]
-tags: [screentones, halftones, Deleter]
+tags: [guide]
 ---
 ![A large pile of Deleter Screen Tones](/assets/img/blog-images/deleter-screens-pile.jpg)
 I was at [Heroes Con](https://www.heroesonline.com/heroescon/) back in 2015 and talking to [Mr. James Harren](http://www.felixcomicart.com/ArtistGalleryTitles.asp?ArtistId=574&Ti=James_Harren) during a portfolio review.  I asked him how the hell he was getting these amazingly controlled ink splatter almost gradients, and he told me he wasn't.  He was using halftone sheets. He pulled out his portfolio with some of his originals, and inside was a few sheets of [Deleter Halftone Sheets](http://deleter-mangashop.com/index.php?lang_id=en&genre_id=&keyword=%2FHalftone&act=search&sortkey=&offset=0&tsuka_conv=usd).  James actually handed me a full sheet, which was beyond kind of him to do ([this one, SSE-492 for the curious](http://deleter-mangashop.com/goods_en_usd_1094.html)).  It took me a really long time to actually ever even use it, but it started up a pretty costly interest in halftones.  Today, I'm going to talk about some tips and tricks with halftones from Deleter and also go into some helpful tips on what exactly you are buying (because their website is not very new consumer friendly!)

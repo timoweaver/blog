@@ -23,9 +23,7 @@ excerpt_separator: <!--more-->
 title: Timothy Weaver | Illustration | Comics | Art Supply Reviews
 email: timoweaver@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the online portfolio of comics, illustrations, and design work by
-  Timothy Weaver (Timo).  You can also find reviews of art supplies in my blog,
-  Art Supply Snob.
+  Timothy Weaver (aka Timo) is a comic creator, designer, and illustrator living in Durham, North Carolina. He has his BFA in Studio Art from East Carolina University with a concentration in Illustration. He hates speaking in the third person.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "timoweaver.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dafttimo

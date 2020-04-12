@@ -3,7 +3,7 @@ layout: post
 title:  "Akashiya Sai ThinLine Brush Pen Sumi Black Review"
 date:   2018-09-03 11:46:21 -0400
 categories: [review]
-tags: [brush pen, Akashiya Sai]
+tags: [review]
 ---
 
 ![Picture of Akashiya Sai ThinLine Brush Pen Sumi Black Packaging](/assets/img/blog-images/product-picture-akashiya.jpg)

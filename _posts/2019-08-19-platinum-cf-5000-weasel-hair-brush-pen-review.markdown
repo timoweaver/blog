@@ -3,7 +3,7 @@ layout: post
 title:  "Platinum CF-5000 Weasel Hair Brush Pen Review"
 date:   2019-08-19 11:55:19 -0400
 categories: [review]
-tags: [brush pen, platinum]
+tags: [review]
 ---
 
 ![Platinum CF-5000 Fude Brush Pen](/assets/img/blog-images/platinum-cf-5000.JPG)

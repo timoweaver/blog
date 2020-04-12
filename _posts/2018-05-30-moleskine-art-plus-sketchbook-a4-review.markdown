@@ -3,7 +3,7 @@ layout: post
 title:  "Moleskine Art Plus Sketchbook A4 Review"
 date:   2018-05-30 18:14:58
 categories: [review]
-tags: [sketchbook, moleskine]
+tags: [review]
 ---
 
 

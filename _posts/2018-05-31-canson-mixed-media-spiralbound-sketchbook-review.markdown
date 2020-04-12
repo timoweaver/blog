@@ -3,7 +3,7 @@ layout: post
 title:  "Canson Mixed Media Spiralbound Sketchbook Review"
 date:   2018-05-31 17:01:26
 categories: [review]
-tags: [sketchbook, canson]
+tags: [review]
 ---
 
 ![Money Shot of Canson Mixed Media Sketchbooks](/assets/img/blog-images/a-bunch.jpg)

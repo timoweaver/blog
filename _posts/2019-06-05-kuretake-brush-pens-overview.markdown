@@ -3,7 +3,7 @@ layout: post
 title:  "Kuretake Brush Pens Overview"
 date:   2019-06-05 19:55:32 -0400
 categories: [review]
-tags: [brush pen, kuretake]
+tags: [guide]
 ---
 
 ![Kuretake Brush Pens, Capped](/assets/img/blog-images/c3ded223-28f2-49de-98bd-a47f07dcd6a1.jpeg)

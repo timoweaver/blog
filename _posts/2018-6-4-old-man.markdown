@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Old Man"
+date:   2018-06-04 12:00:00
+categories: [illustration]
+tags: [illustration]
+---
+
+![Old Man Illustration ink halftone screentone deleter](/assets/img/old-man.jpg)

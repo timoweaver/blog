@@ -3,7 +3,7 @@ layout: post
 title:  "Illo Sketchbook 8\"x8\" Review"
 date:   2018-06-04 13:51:36
 categories: [review]
-tags: [illo sketchbook, sketchbook]
+tags: [review]
 ---
 
 ![illo sketchbook sketches 1](/assets/img/blog-images/illo-sketchbook-sketches1.jpg)

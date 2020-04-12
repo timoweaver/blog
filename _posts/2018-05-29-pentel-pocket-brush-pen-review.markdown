@@ -3,7 +3,7 @@ layout: post
 title:  "Pentel Pocket Brush Pen Review"
 date:   2018-05-29 17:49:01
 categories: [review]
-tags: [brushpen, pentel, ink]
+tags: [review]
 ---
 
 ![Pentel Pocket Brush Pen Posted](/assets/img/blog-images/pentel-pocket-brush-pen-by-itself.jpg)

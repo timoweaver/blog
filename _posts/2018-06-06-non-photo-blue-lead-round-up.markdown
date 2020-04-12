@@ -3,7 +3,7 @@ layout: post
 title:  "Non Photo Blue Lead Round-Up"
 date:   2018-06-06 22:30:17
 categories: [guide]
-tags: [non photo blue lead, non repro blue]
+tags: [guide]
 ---
 
 ![Before and After making adjustments in Photoshop](/assets/img/blog-images/before-after.jpg) Non Photo Blue Lead (or Non Repro Blue Lead) is a bit of a legacy item as far as art reproduction is concerned. The benefit of its use would be that you wouldn't have to erase, because the camera taking a photo of your black and white inked illustration wouldn't be able to pick up that color of blue (Xeroxing either). We can use this tool today with scanning in our work, it just takes an extra step. Above is a before and after of an image with the non photo blue lead on the left. On the right, I just dropped the saturation of the cyan channel down to 0 and bumped the lightness all the way up, and poof, it's gone. There's a few other ways to do this, but the point is there is still a reason to do this today (though most artists now print their non photo blue layouts). In this round-up I am comparing 5 different non photo blue leads, and seeing which is king.

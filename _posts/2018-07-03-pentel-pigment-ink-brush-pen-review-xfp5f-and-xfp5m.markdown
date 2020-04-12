@@ -3,7 +3,7 @@ layout: post
 title:  "Pentel Pigment Ink Brush Pen Review (XFP5F and XFP5M)"
 date:   2018-07-03 18:15:37
 categories: [review]
-tags: [brushpen, Pentel]
+tags: [review]
 ---
 
 ![Pentel Pigment Ink Brush Pens Extra Fine XFP5F and Medium XFP5M](/assets/img/blog-images/both-pens.jpg)
