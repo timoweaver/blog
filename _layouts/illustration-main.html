@@ -55,7 +55,7 @@ layout: default
         <img src="/assets/img/{{ post.title || replace: " ", "-" || downcase }}.jpg" class="drawing" alt="illustration preview">
       </a>
     </div>
-    <a href="{{ post.url }}" class="mb-1">
+    <a href="{{ post.url }}" class="mb-1" style="display:none;">
       {{ post.title }}
     </a>
     <p class="mb-1">{{ post.description }}</p>
