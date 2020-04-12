@@ -380,21 +380,14 @@ img.illustration	{padding: 10px;margin-left: auto;margin-right: auto;display: bl
     text-align: center;
  }
 
-
- @media only screen and (min-width: 800px) {
-   img.illustration {
-     width:80%;
-   }
- }
  .text-center  { text-align: center;}
 
 
-//width is greater than height
-//  @media all and (orientation: landscape) {
-//   img.illustration	{height:90vh;width:auto;max-width:100%;max-height: 100%}
-//
-// }
-//height is greater than width
-// @media all and (orientation: portrait) {
-//   img.illustration	{height:auto;width:90vw;max-width:100%;max-height: 100%;}
-// }
+// width is greater than height
+ @media all and (orientation: landscape) {
+  img	{max-height:125vh}
+}
+// height is greater than width
+@media all and (orientation: portrait) {
+  img	{max-height:125vw}
+}
