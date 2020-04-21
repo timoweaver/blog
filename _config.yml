@@ -29,7 +29,7 @@ url: "https://timoweaver.com" # the base hostname & protocol for your site, e.g.
 twitter_username: dafttimo
 instagram_username: timoillo
 
-paginate: 5
+paginate: 8
 paginate_path: "/page/:num/"
 
 # Build settings
