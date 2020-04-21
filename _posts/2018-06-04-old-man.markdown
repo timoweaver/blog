@@ -6,4 +6,4 @@ categories: [illustration]
 tags: [illustration]
 ---
 
-![Old Man Illustration ink halftone screentone deleter](/assets/img/old-man.jpg)
+![Old Man Illustration ink halftone screentone deleter](/assets/img/old-man.jpg){: .half-width}

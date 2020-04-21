@@ -6,6 +6,6 @@ categories: [illustration]
 tags: [illustration]
 ---
 
-![Mama Bear cat illustration pen and ink](/assets/img/mama-bear.jpg)
+![Mama Bear cat illustration pen and ink](/assets/img/mama-bear.jpg){: .half-width}
 
 This is Mama Bear, she's my cat, and she's the best fucking cat in the world.

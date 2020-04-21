@@ -381,13 +381,18 @@ img.illustration	{padding: 10px;margin-left: auto;margin-right: auto;display: bl
  }
 
  .text-center  { text-align: center;}
-
+ @media only screen and (min-width: 600px) {
+.half-width {width:75%;height:auto;margin-left: auto;margin-right: auto;}
+}
+@media only screen and (min-width: 800px) {
+.half-width {width:65%;}
+}
 
 // width is greater than height
  @media all and (orientation: landscape) {
-  img	{max-height:125vh}
+  // img	{max-height:125vh}
 }
 // height is greater than width
 @media all and (orientation: portrait) {
-  img	{max-height:125vw}
+  // img	{max-height:125vw}
 }
