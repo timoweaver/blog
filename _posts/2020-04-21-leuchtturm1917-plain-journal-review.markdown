@@ -26,7 +26,7 @@ One of the extras I've never seen before in this journal is the table of content
 
 ![LEUCHTTURM1917 Plain Journal page numbers](/assets/img/blog-images/leuchtturm1917-review/page-num.JPG){: .half-width}
 
-This thing also has page numbers on each page in the journal. Again, that's pretty neat, and could help with remembering where things are in the book (as well as the Table of Contents I suppose!). In regards to size, the LEUCHTTURM1917 is nearly the same height (8.25") as the Moleskine Art Collection Skethcbook, but it's nearly .5" inches wider than the Moleskine at 5.8" or so. The extra width is really nice.
+This thing also has page numbers on each page in the journal. Again, that's pretty neat, and could help with remembering where things are in the book (as well as the Table of Contents I suppose!). In regards to size, the LEUCHTTURM1917 is nearly the same height (8.25") as the Moleskine Art Collection Sketchbook, but it's nearly .5" inches wider than the Moleskine at 5.8" or so. The extra width is really nice, and feels more natural.
 
 Now for the paper: it's great. It's got a nice fine tooth, enough to catch pencil without being too much, and certain materials will glide across the page. It's honestly great. But you run into an issue with the pages being just too thin if you want to use ink, let alone ink on both sides of the sheet.
 
