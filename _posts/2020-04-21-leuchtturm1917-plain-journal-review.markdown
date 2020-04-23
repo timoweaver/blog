@@ -32,10 +32,9 @@ Now for the paper: it's great. It's got a nice fine tooth, enough to catch penci
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper](/assets/img/blog-images/leuchtturm1917-review/thin-paper.jpg)
 
-It's crazy see through. It's 80 gsm paper, it kinda reminds me of the paper they print the bible on. This is thinner than standard printer papers, which are around 90 gsm, or the Moleskine Art Collection sketchbook I mentioned above which is 165 gsm. Below you can see the drawing that is behind the page above:
+It's crazy see through. It's 80 gsm paper, it kinda reminds me of the paper they print the bible on. This is thinner than standard printer papers and [Rhodia Webnotebooks](https://rhodiapads.com/collections_boutique_webnotebook.php), which are around 90 gsm, or the Moleskine Art Collection sketchbook I mentioned above which is 165 gsm. Below you can see the drawing that is behind the page above:
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper drawing](/assets/img/blog-images/leuchtturm1917-review/first-spread.jpg)
-
 And that behavior continues through the whole book if you want to use ink:
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper drawing](/assets/img/blog-images/leuchtturm1917-review/ghosting.jpg)
@@ -48,7 +47,9 @@ And I could maybe get used to that, you just use one side of the page. But the a
 
 ![LEUCHTTURM1917 Plain Journal drawings with prismacolor col-erase pencils](/assets/img/blog-images/leuchtturm1917-review/pencil-spread.jpg)
 
-But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back). I'm probably going to continue using this book, but I don't think I'd ever make it my *normal* sketchbook. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 3 out of 5 Zaffino Crazy Face Franks.
+But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back).
+
+I'll continue using this book, but there are a lot of compromises. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 3 out of 5 Zaffino Crazy Face Franks.
 
 ![3 out of 5 Stars](/assets/img/blog-images/zaffino-scale-3-star.jpg){: .half-width .mb-2}
 
