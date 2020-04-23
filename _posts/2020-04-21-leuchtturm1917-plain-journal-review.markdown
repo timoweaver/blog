@@ -49,7 +49,7 @@ And I could maybe get used to that, you just use one side of the page. But the a
 
 But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back).
 
-I'll continue using this book, but there are a lot of compromises. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  This is getting close to that idea I had earlier about a book where it's easier to just "sketch", but I want to be able to enjoy those sketches later without a 35% opacity drawing coming through from the other side. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 3 out of 5 Zaffino Crazy Face Franks.
+I'll continue using this book, but there are a lot of compromises. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  This is getting close to that idea I had earlier about a book where it's easier to just "sketch", and I feel like I'm loosening up because of it. I just wish I was able to enjoy those sketches later without a 35% opacity drawing coming through from the other side. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 3 out of 5 Zaffino Crazy Face Franks.
 
 ![3 out of 5 Stars](/assets/img/blog-images/zaffino-scale-3-star.jpg){: .half-width .mb-2}
 
