@@ -45,7 +45,7 @@ This is the single largest issue I have with the book. You can also have issues 
 
 And I could maybe get used to that, you just use one side of the page. But the amount of show through with ink on any page pretty much makes this a pencil only sketchbook if you never want to see the works on the other side of the page. I've done this for a bit, and in some ways it is kind of what I wanted: I can't even really finish a drawing in this book, if I want a fully inked illustration-y thing I kind of have to take this drawing out of the sketchbook. It even is nearly what I wanted out of this sketchbook experience in the first place.
 
-![LEUCHTTURM1917 Plain Journal drawings with prismacolor col-erase pencils](/assets/img/blog-images/leuchtturm1917-review/pencil-spread.jpg)
+![LEUCHTTURM1917 Plain Journal drawings with prismacolor col-erase colored pencils](/assets/img/blog-images/leuchtturm1917-review/pencil-spread.jpg)
 
 But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back).
 
