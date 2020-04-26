@@ -358,6 +358,34 @@ img.illustration	{padding: 10px;margin-left: auto;margin-right: auto;display: bl
 .pb-0 { padding-bottom: 0 !important }
 .pv-0 { padding-bottom: 0 !important; padding-top: 0 !important }
 
+.stars-outer {
+  display: inline-block;
+  position: relative;
+  font-family: FontAwesome;
+}
+
+.stars-outer::before {
+  content: "\2606 \2606 \2606 \2606 \2606";
+}
+
+.stars-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+}
+
+.stars-inner::before {
+  content: "\2605 \2605 \2605 \2605 \2605";
+  color: #f8ce0b;
+}
+.stars-inner.stars-5{width:100%}
+.stars-inner.stars-4{width:80%}
+.stars-inner.stars-3{width:60%}
+.stars-inner.stars-2{width:40%}
+.stars-inner.stars-1{width:20%}
 
 .pagination a, .pagination span {
     padding: 7px 18px;

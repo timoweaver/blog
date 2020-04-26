@@ -14,7 +14,25 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
   </header>
-
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    {%- if tag == "review" and page.schema == "true" -%}
+    <div>
+      <span itemscope="" itemtype="http://schema.org/Product" itemprop="itemReviewed">
+        <h3 class="product-name" itemprop="brand">{{page.brand}}</h3>
+        <p itemprop="name">{{page.name}}</p>
+        <p itemprop="gtin">{{page.gtin}}</p>
+        <p itemprop="description">{{page.description}}</p>
+      </span>
+      <div class="rating" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating"><span class=""></span>
+        <!-- <meta itemprop="ratingValue" content="{{page.rating}}"> -->
+        <div itemprop="ratingValue" content="{{page.rating}}" class="stars-outer">
+          <div class="stars-inner stars-{{page.rating}}"></div>
+        </div>
+      </div>
+    </div>
+    {%- endif -%}
+  {% endfor %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -22,7 +40,6 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 <h3>Post Tags:</h3>

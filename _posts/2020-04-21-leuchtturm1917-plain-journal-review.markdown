@@ -4,6 +4,13 @@ title: "LEUCHTTURM1917 Plain Journal Review"
 date:  2020-04-21 12:00:00 -0400
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Leuchtturm1917 Notebook Medium Black Plain"
+rating: 4
+gtin: 04004117258398
+brand: "LEUCHTTURM1917"
+author: "Tim Weaver"
+description: "Plain Black Hardcover Journal"
 ---
 
 ![LEUCHTTURM1917 Plain Journal Front Cover with Paper Sleeve](/assets/img/blog-images/leuchtturm1917-review/front.jpg){: .half-width}
@@ -49,9 +56,9 @@ And I could maybe get used to that, you just use one side of the page. But the a
 
 But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back).
 
-I'll continue using this book, but there are a lot of compromises. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  This is getting close to that idea I had earlier about a book where it's easier to just "sketch", and I feel like I'm loosening up because of it. I just wish I was able to enjoy those sketches later without a 35% opacity drawing coming through from the other side. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 3 out of 5 Zaffino Crazy Face Franks.
+I'll continue using this book. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  This is getting close to that idea I had earlier about a book where it's easier to just "sketch", and I feel like I'm loosening up because of it. I just wish I was able to enjoy those sketches later without a 35% opacity drawing coming through from the other side. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 4 out of 5 Zaffino Crazy Face Franks.
 
-![3 out of 5 Stars](/assets/img/blog-images/zaffino-scale-3-star.jpg){: .half-width .mb-2}
+![3 out of 5 Stars](/assets/img/blog-images/zaffino-scale-4-star.jpg){: .half-width .mb-2}
 
 **P.S.** The pen loops from LEUCHTTURM1917 are pretty handy and last through the use of the journal (I've used one to hold an Apple Pencil on my iPad case for 4 years and it hasn't budged). If you are looking for a solution for carrying just one pen or pencil on you, this is honestly a great choice.
 
