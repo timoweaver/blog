@@ -36,28 +36,26 @@ One of the extras I've never seen before in this journal is the table of content
 
 This thing also has page numbers on each page in the journal. Again, that's pretty neat, and could help with remembering where things are in the book (as well as the Table of Contents I suppose!). In regards to size, the LEUCHTTURM1917 is nearly the same height (8.25") as the Moleskine Art Collection Sketchbook, but it's nearly .5" inches wider than the Moleskine at 5.8" or so. The extra width is really nice, and feels more natural.
 
-Now for the paper: it's great. It's got a nice fine tooth, enough to catch pencil without being too much, and certain materials will glide across the page. It's honestly great. But you run into an issue with the pages being just too thin if you want to use ink, let alone ink on both sides of the sheet.
+Now for the paper: it's great. It's got a nice fine tooth, enough to catch pencil without being too much, and certain materials will glide across the page. It's honestly great for both pencil and ink, handling most things I've thrown at it. [Platinum Carbon Black Ink](https://www.gouletpens.com/products/platinum-carbon-black-60ml-bottled-ink) would feather, [Noodlers Black Ink](https://www.gouletpens.com/collections/noodlers-ink/products/noodlers-black-3oz-bottled-ink?variant=11884735791147) does not seem to feather at all, and every single one of my pens from Pentel to Micron to Zebra all seem to work great. You do run into an issue with the pages showing a lot of ghosting to the other side and see through to the next page as well.
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper](/assets/img/blog-images/leuchtturm1917-review/thin-paper.jpg)
 
-It's crazy see through. It's 80 gsm paper, it kinda reminds me of the paper they print the bible on. This is thinner than standard printer papers and [Rhodia Webnotebooks](https://rhodiapads.com/collections_boutique_webnotebook.php), which are around 90 gsm, or the Moleskine Art Collection sketchbook I mentioned above which is 165 gsm. Below you can see the drawing that is behind the page above:
+It's 80 gsm paper, thinner than some standard printer papers and [Rhodia Webnotebooks](https://rhodiapads.com/collections_boutique_webnotebook.php), which are around 90 gsm, or the Moleskine Art Collection sketchbook I mentioned above which is 165 gsm. Below you can see the drawing that is behind the page above:
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper drawing](/assets/img/blog-images/leuchtturm1917-review/first-spread.jpg)
 And that behavior continues through the whole book if you want to use ink:
 
 ![LEUCHTTURM1917 Plain Journal see through thin paper drawing](/assets/img/blog-images/leuchtturm1917-review/ghosting.jpg)
 
-This is the single largest issue I have with the book. You can also have issues with ink bleeding through the paper. This will depend on your ink you use, and how saturated the paper gets. As well, ghosting to the back side of the page is going to be an issue:
+This is the single largest issue I have with the book. You can also have issues with ink bleeding through the paper, though this was more rare. This will depend on your ink you use, and how saturated the paper gets.
 
 ![LEUCHTTURM1917 Plain Journal ink bleeding through paper](/assets/img/blog-images/leuchtturm1917-review/bleed-through.jpg){: .half-width}
 
-And I could maybe get used to that, you just use one side of the page. But the amount of show through with ink on any page pretty much makes this a pencil only sketchbook if you never want to see the works on the other side of the page. I've done this for a bit, and in some ways it is kind of what I wanted: I can't even really finish a drawing in this book, if I want a fully inked illustration-y thing I kind of have to take this drawing out of the sketchbook. It even is nearly what I wanted out of this sketchbook experience in the first place.
+The more I've used the book, the more I've come to terms with the see through and ghosting. The paper is so good with pens, ink, and pencil that I can look past it, while still wishing it wasn't there. This is probably about as close to what I wanted above from a sketchbook as I'm going to get.
 
 ![LEUCHTTURM1917 Plain Journal drawings with prismacolor col-erase colored pencils](/assets/img/blog-images/leuchtturm1917-review/pencil-spread.jpg)
 
-But it's just a little too see through for my liking. It honestly becomes distracting, and even if I only use one of the sheet sides, that reduces this book to 124 pages, so I might as well just use the 104 page Moleskine Sketchbook at that point and use whatever pen and ink or media I want, whenever I want (within reason, I'm going to do a review of the Large soon to to complement my [A4 XL Moleskine Review](/review/2018/05/30/moleskine-art-plus-sketchbook-a4-review.html) I did a while back).
-
-I'll continue using this book. This is a perfectly fine "getting shit done", rough and tumble sketchbook, but if the paper was just a little thicker it'd be easier to recommend.  This is getting close to that idea I had earlier about a book where it's easier to just "sketch", and I feel like I'm loosening up because of it. I just wish I was able to enjoy those sketches later without a 35% opacity drawing coming through from the other side. I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 4 out of 5 Zaffino Crazy Face Franks.
+I'll continue using this sketchbook for now and see if this is "*the one*". I doubt this will be the last sketchbook I purchase, but maybe it will be! I'm gonna give the **LEUCHTTURM1917 A5 Plain Journal** 4 out of 5 Zaffino Crazy Face Franks.
 
 ![3 out of 5 Stars](/assets/img/blog-images/zaffino-scale-4-star.jpg){: .half-width .mb-2}
 
