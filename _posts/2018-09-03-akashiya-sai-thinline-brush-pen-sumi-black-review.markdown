@@ -33,4 +33,4 @@ The tip also does not hold a point in the slightest.  It will fray out and stay 
 
 Unless you can't help yourself, or you think that the dryness of the Akashiya Sai ThinLine Brush Pen will be something you like, just don't get it.  It's awful.  1 out of 5 Zaffino Crazy Face Franks here.
 
-![1 out of 5 stars](zaffino-scale-1-star./assets/img/blog-images/jpg)
+![1 out of 5 stars](/assets/img/blog-images/zaffino-scale-1-star.jpg)
