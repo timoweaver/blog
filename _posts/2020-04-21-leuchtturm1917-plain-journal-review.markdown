@@ -11,6 +11,7 @@ gtin: 04004117258398
 brand: "LEUCHTTURM1917"
 author: "Tim Weaver"
 description: "Plain Black Hardcover Journal"
+image: "/assets/img/blog-images/leuchtturm1917-review/front.jpg"
 ---
 
 ![LEUCHTTURM1917 Plain Journal Front Cover with Paper Sleeve](/assets/img/blog-images/leuchtturm1917-review/front.jpg){: .half-width}

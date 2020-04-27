@@ -1,10 +1,60 @@
 ---
 layout: default
 ---
+ {% for tag in page.tags %}
+   {% capture tag_name %}{{ tag }}{% endcapture %}
+   {%- if tag == "review" and page.schema == "true" -%}
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Product",
+        "description": "{{page.description}}",
+        "brand": "{{page.brand}}",
+        "name": "{{page.name}}",
+        "image": "https://timoweaver.com/{{page.image}}",
+        "gtin8": {{page.gtin}},
+        "review": {
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": {{page.rating}},
+            "bestRating": 5,
+            "worstRating": 0
+          },
+          "author": {
+            "@type": "Person",
+            "name": "{{page.author}}"
+          }
+        }
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": {{page.rating}},
+        "bestRating": 5,
+        "worstRating": 0
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{page.author}}",
+        "sameAs": "https://timoweaver.com/tags/about-me.html"
+      }
+    }
+    </script>
+ {%- endif -%}
+{% endfor %}
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      {%- if tag == "review" and page.schema == "true" -%}
+          <div class="stars-outer">
+            <div class="stars-inner stars-{{page.rating}}"></div>
+          </div>
+      {%- endif -%}
+    {% endfor %}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -14,25 +64,6 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
   </header>
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    {%- if tag == "review" and page.schema == "true" -%}
-    <div>
-      <span itemscope="" itemtype="http://schema.org/Product" itemprop="itemReviewed">
-        <h3 class="product-name" itemprop="brand">{{page.brand}}</h3>
-        <p itemprop="name">{{page.name}}</p>
-        <p itemprop="gtin">{{page.gtin}}</p>
-        <p itemprop="description">{{page.description}}</p>
-      </span>
-      <div class="rating" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating"><span class=""></span>
-        <!-- <meta itemprop="ratingValue" content="{{page.rating}}"> -->
-        <div itemprop="ratingValue" content="{{page.rating}}" class="stars-outer">
-          <div class="stars-inner stars-{{page.rating}}"></div>
-        </div>
-      </div>
-    </div>
-    {%- endif -%}
-  {% endfor %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
