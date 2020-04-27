@@ -4,6 +4,14 @@ title:  "Platinum CF-5000 Weasel Hair Brush Pen Review"
 date:   2019-08-19 11:55:19 -0400
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Platinum CF-5000 Brush Pen"
+rating: 3
+gtin: 04977114408946
+brand: "Platinum Pens"
+author: "Tim Weaver"
+description: "Weasel Hair Bristle Tip Brush Pen with Pigment Waterproof Ink"
+image: "/assets/img/blog-images/platinum-cf-5000.JPG"
 ---
 
 ![Platinum CF-5000 Fude Brush Pen](/assets/img/blog-images/platinum-cf-5000.JPG)

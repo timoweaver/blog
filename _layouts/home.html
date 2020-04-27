@@ -18,11 +18,17 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h2>
+        <h2 class="mb-0">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h2>
+
+          {%- if post.schema == "true" -%}
+              <div class="stars-outer mb-1">
+                <div class="stars-inner stars-{{post.rating}}"></div>
+              </div>
+          {%- endif -%}
         {{ post.excerpt }}
         <a class="btn-read-more mv-1" href="{{ post.url | relative_url }}">
           Read More

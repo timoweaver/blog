@@ -4,6 +4,15 @@ title:  "Illo Sketchbook 8\"x8\" Review"
 date:   2018-06-04 13:51:36
 categories: [review]
 tags: [review]
+schema: "true"
+name: "8x8 Illo Sketchbook"
+rating: 4
+gtin: 0630239832594
+brand: "illo sketchbook"
+author: "Tim Weaver"
+description: "Hardcover Sketchbook with 112 pages of 8 inch by 8 inch smooth plate surface paper "
+image: "/assets/img/blog-images/illo-front-and-back.jpg"
+
 ---
 
 ![illo sketchbook sketches 1](/assets/img/blog-images/illo-sketchbook-sketches1.jpg)

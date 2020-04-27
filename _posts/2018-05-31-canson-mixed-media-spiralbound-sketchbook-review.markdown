@@ -4,6 +4,14 @@ title:  "Canson Mixed Media Spiralbound Sketchbook Review"
 date:   2018-05-31 17:01:26
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Canson Mixed Media Spiralbound Sketchbook"
+rating: 4
+gtin: 00030674168454
+brand: "Canson"
+author: "Tim Weaver"
+description: "7 inch by 10 inch spiral bound sketchbook with 60 Pages"
+image: "/assets/img/blog-images/front-and-back_0.jpg"
 ---
 
 ![Money Shot of Canson Mixed Media Sketchbooks](/assets/img/blog-images/a-bunch.jpg)

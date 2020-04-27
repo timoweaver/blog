@@ -4,6 +4,14 @@ title:  "Pentel Pigment Ink Brush Pen Review (XFP5F and XFP5M)"
 date:   2018-07-03 18:15:37
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Pentel Pigment Ink Brush Pen XFP5M"
+rating: 5
+gtin: 04902506142917
+brand: "Pentel"
+author: "Tim Weaver"
+description: "Bristle Tip Brush Pen with Pigment Waterproof Ink"
+image: "/assets/img/blog-images/both-pens.jpg"
 ---
 
 ![Pentel Pigment Ink Brush Pens Extra Fine XFP5F and Medium XFP5M](/assets/img/blog-images/both-pens.jpg)

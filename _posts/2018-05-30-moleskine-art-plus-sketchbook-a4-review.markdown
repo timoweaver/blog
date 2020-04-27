@@ -4,6 +4,14 @@ title:  "Moleskine Art Plus Sketchbook A4 Review"
 date:   2018-05-30 18:14:58
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Moleskine Art Plus Sketchbook A4"
+rating: 3
+gtin: 09788862931939
+brand: "Moleskine"
+author: "Tim Weaver"
+description: "A4 sized hardcover art sketchbook with 96 Pages"
+image: "/assets/img/blog-images/front-and-back.jpg"
 ---
 
 

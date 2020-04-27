@@ -4,9 +4,14 @@ title:  "Pentel Pocket Brush Pen Review"
 date:   2018-05-29 17:49:01
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Pentel Pocket Brush Pen"
 rating: 4
-product: Pentel Pocket Brush Pen GFKP3BPA
-gtin: 072512235904
+gtin: 00072512235904
+brand: "Pentel"
+author: "Tim Weaver"
+description: "Pocket Brush Pen with Black Pigment Ink"
+image: "/assets/img/blog-images/pentel-pocket-brush-pen-by-itself.jpg"
 ---
 
 ![Pentel Pocket Brush Pen Posted](/assets/img/blog-images/pentel-pocket-brush-pen-by-itself.jpg)
