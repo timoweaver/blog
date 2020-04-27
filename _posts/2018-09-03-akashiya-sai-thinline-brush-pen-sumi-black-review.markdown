@@ -4,6 +4,14 @@ title:  "Akashiya Sai ThinLine Brush Pen Sumi Black Review"
 date:   2018-09-03 11:46:21 -0400
 categories: [review]
 tags: [review]
+schema: "true"
+name: "Akashiya Sai ThinLine Brush Pen Sumi Black"
+rating: 1
+gtin: 4963095903815
+brand: "Akashiya Sai"
+author: "Tim Weaver"
+description: "Brush Pen with Bristle Tip and Black Ink"
+image: "/assets/img/blog-images/product-picture-akashiya.jpg"
 ---
 
 ![Picture of Akashiya Sai ThinLine Brush Pen Sumi Black Packaging](/assets/img/blog-images/product-picture-akashiya.jpg)

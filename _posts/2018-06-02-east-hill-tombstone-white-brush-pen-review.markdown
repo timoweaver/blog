@@ -4,6 +4,14 @@ title:  "East Hill Tombstone White Brush Pen Review"
 date:   2018-06-02 15:18:53
 categories: [review]
 tags: [review]
+schema: "true"
+name: "East Hill Tombstone White Brush Pen"
+rating: 3
+gtin: 4901427276442
+brand: "East Hill"
+author: "Tim Weaver"
+description: "White Brush Pen with Bristle Tip"
+image: "/assets/img/blog-images/pen-uncapped.jpg"
 ---
 
 ![East Hill Tombstone White Brush Pen Uncapped](/assets/img/blog-images/pen-uncapped.jpg)
