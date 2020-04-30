@@ -10,6 +10,12 @@ tags: [guide]
 
 <!--more-->
 
+**UPDATE 4-30-20**
+
+![Prismacolor Col-Erase Light Blue Colored Pencil](/assets/img/blog-images/col-erase-light-blue-20068.jpg)
+
+I'll have to edit this whole thing one day, but I recently found these [Prismacolor Col-Erase Light Blue Colored Pencil #20068](https://www.jetpens.com/Prismacolor-Col-Erase-Colored-Pencil-Light-Blue-20068/pd/16338) and they blow everything else here really out of the water.  If you are on the lookout and don't mind a wooden pencil, go ahead and pick this up and try it.  It has the right shade, isn't as shiny and waxxy, not too hard a lead while not too soft either.  It's as close to perfect as I think it can be as a non-photo blue pencil today. The rest of the original post follows:
+
 ![Non Photo Blue](/assets/img/blog-images/lead-guide.jpg)
 
 Above is a photo of the non photo blue lead I'm looking at today. This list goes as follows:
