@@ -6,7 +6,7 @@ categories: [sketch]
 tags: [sketch]
 ---
 
-![1800 painting study master portrait profile woman](/assets/img/painting-study-may-5th.jpg){: .half-width}
+![1800 painting study master portrait profile woman ink and screentone sketch](/assets/img/painting-study-may-5th.jpg){: .half-width}
 
 Playing with different sized screentones here, as well as throwing a "core shadow" in there to help the transition between white and tone on the skin.  Wally Wood did that a lot, I've been trying to workout how to do it in my own work.
 
