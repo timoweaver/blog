@@ -47,6 +47,6 @@ As far as how often they'll need to be replaced, I'm not sure yet.  I've used it
 
 ![M+R Brass Bullet Sharpener inside my Caran D'Ache Metal Pencil Case](/assets/img/blog-images/m+r-brass-bullet/pencil-case.jpg){: .half-width}
 
-I'm giving the Möbius+Ruppert Brass Bullet 5 Zaffino Crazy Face Franks out of 5.  It's solid as a rock, doesn't contain any plastic (so you will have a harder time stripping the screw attaching the blade!), and you can find replacement blades from multiple websites and sources.  The thing should honestly last a lifetime.
+I'm giving the [Möbius+Ruppert Brass Bullet](https://www.moebius-ruppert.com/spitzer/sp_details/06040000_en.html) 5 Zaffino Crazy Face Franks out of 5.  It's solid as a rock, doesn't contain any plastic (so you will have a harder time stripping the screw attaching the blade!), and you can find replacement blades from multiple websites and sources.  The thing should honestly last a lifetime.
 
 ![5 out of 5 Stars](/assets/img/blog-images/zaffino-scale-5-star.jpg)
