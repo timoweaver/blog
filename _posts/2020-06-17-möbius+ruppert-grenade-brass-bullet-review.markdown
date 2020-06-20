@@ -10,7 +10,7 @@ rating: 5
 gtin: 04004627144112
 brand: "M+R"
 author: "Tim Weaver"
-description: "Plain Black Hardcover Journal"
+description: "Single Hole Brass Pencil Sharpener"
 image: "/assets/img/blog-images/m+r-brass-bullet/m+r-brass-bullet.jpg"
 ---
 
