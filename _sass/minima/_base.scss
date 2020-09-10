@@ -424,3 +424,19 @@ img.illustration	{padding: 10px;margin-left: auto;margin-right: auto;display: bl
 @media all and (orientation: portrait) {
   // img	{max-height:125vw}
 }
+
+table {
+  border-collapse: collapse;
+  border-width: 0;
+
+  /* Making the table self-contain itself on overflow */
+  display: block;
+  overflow: auto;
+}
+
+td,
+th {
+  /* Spacing and border for Table cells */
+  border: 1px solid;
+  padding: .5em 1em;
+}
