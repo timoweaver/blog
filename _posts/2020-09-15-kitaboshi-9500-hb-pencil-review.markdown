@@ -38,7 +38,7 @@ The pencil also might be slightly darker than the Mitsubishi 9800 if I had to sa
 
 Honestly, the only real gripe I have with the pencil is that the end is unfinished.  This probably won't matter at all for those who are writing or drawing with the pencil with a light grip, but I will on occasion hold the end of the pencil in the palm of my hand, like this:
 
-![Kita-Boshi 9500 HB Pencil Held by the end of the pencil](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-grip.jpg)
+![Kita-Boshi 9500 HB Pencil Held by the end of the pencil](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-grip.jpg){: .half-width}
 
 For a pencil at this price point (I think in japan a box retails for like, $4-5 USD), I don't expect finished dipped ends, but that's my only issue.  
 
