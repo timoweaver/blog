@@ -42,7 +42,7 @@ Honestly, the only real gripe I have with the pencil is that the end is unfinish
 
 For a pencil at this price point (I think in japan a box retails for like, $4-5 USD), I don't expect finished dipped ends, but that's my only issue.  
 
-Here's the box at a few other angles:
+The box isn't the prettiest box I've seen for a Japanese pencil (ususally they are amazing, it's wild), but it works. Here's the box at a few other angles:
 
 ![Kita-Boshi 9500 HB Pencil Box Front](/assets/img/blog-images/kitaboshi-9500-hb-pencil/box-front.jpg)
 
