@@ -28,13 +28,13 @@ These are Japanese pencils, which means they will be a little softer for the gra
 
 There is only printing on two sides of the pencil itself, where as most of the time you'll see at least the HB designation on 3 separate sides of the pencil (every other side basically). On the plus side, there is no barcodes printed on the pencil itself (I know some of y'all absolutely hate them).
 
-![Kita-Boshi 9500 HB Pencil Tip](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-tip.jpg)
+![Kita-Boshi 9500 HB Pencil Tip](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-tip.jpg){: .half-width}
 
 The graphite core of the pencil is pretty decent, I've drawn with two different pencils for a couple of hours, and they both feel quite smooth.  They have just ever so slightly more resistance than the Mitsubishi 9800, but nothing like say a General's Semi-Hex HB.  I haven't hit any big pieces of grit just yet, but I've hit a piece of grit in some very expensive pencils so I'm sure a piece is in there somewhere.
 
 The pencil also might be slightly darker than the Mitsubishi 9800 if I had to say.  I also feel like the tip wears down at a slightly quicker rate, but I have no scientific test for that.
 
-![Kita-Boshi 9500 HB Pencil End](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-end.jpg)
+![Kita-Boshi 9500 HB Pencil End](/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-end.jpg){: .half-width}
 
 Honestly, the only real gripe I have with the pencil is that the end is unfinished.  This probably won't matter at all for those who are writing or drawing with the pencil with a light grip, but I will on occasion hold the end of the pencil in the palm of my hand, like this:
 
