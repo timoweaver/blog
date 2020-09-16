@@ -56,7 +56,7 @@ The case is large, very similar to the Tombow Mono 100 case in how it opens, and
 
 Should you get these pencils over the Hi-Uni?  I'd say only do it if you are saving enough money to make it worth it.  In Japan, there is huge savings between the Uni and the Hi-Uni (the Uni is effectively 2/3 the price of the Hi-Uni there).  In America, the margins are much slimmer.  I only had a 2 dollar difference between the Uni and the Hi-Uni ($16.99 vs $18.99), and the Hi-Uni's are way more common to come by.
 
-There's nothing wrong with the Uni's, but I'd probably just get the Hi-Uni's from now if they are still only $2 dollars more. If I could find a pack of [Uni Star's](https://www.mpuni.co.jp/products/pencils/black/uni_star/uni_star.html){:target="_blank"}{:rel="noopener"} at a decent price that could be the winner, assuming they have the same core.  If you know, [please email me and let me know](mailto:timoweaver@gmail.com)!
+There's nothing wrong with the Uni's, but I'd probably just get the Hi-Uni's from now if they are still only $2 dollars more. If I could find a pack of [Uni Star's](https://www.mpuni.co.jp/products/pencils/black/uni_star/uni_star.html){:target="_blank"}{:rel="noopener"} at a decent price that could be the winner, assuming they have the same core.  If you know, [please email me and let me know](mailto:timoweaver@gmail.com){:target="_blank"}{:rel="noopener"}!
 
 With all of that in mind, I think the **Mitsubishi Uni HB Pencil** gets 4 Zaffino Crazy Face Franks out of 5.
 
