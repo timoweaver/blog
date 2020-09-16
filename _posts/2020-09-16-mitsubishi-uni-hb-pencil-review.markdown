@@ -24,7 +24,7 @@ As it turns out, the Uni is a very hard pencil to come by in America.  Jetpens, 
 
 ![Mitsubishi Uni HB Pencil Front](/assets/img/blog-images/mitsubishi-uni-hb-pencil/pencil-front.jpg)
 
-The pencil feels great, honestly.  If you had never held a Hi-Uni or a [Mono 100](https://www.tombow.com/en/products/mono100/){:target="_blank"}{:rel="noopener"}, it'd be a really deluxe pencil.  HB designation is on 3 sides, and one side says "Pressure-Proofed Hi-Density Lead", with the Japan inprint and the barcode, and the final HB side has the lot number of that run of pencils imbedded in the barrel of the pencil.  Thick lacquer paint job, though not quite as 'perfect' as the Hi-Uni.  It feels ever so slightly bumpyer, not quite as glassy and perfectly smooth (though just barely not).
+The pencil feels great, honestly.  If you had never held a Hi-Uni or a [Mono 100](https://www.tombow.com/en/products/mono100/){:target="_blank"}{:rel="noopener"}, it'd be a really deluxe pencil.  HB designation is on 3 sides, and one side says "Pressure-Proofed Hi-Density Lead", with the Japan inprint and the barcode, and the final HB side has the lot number of that run of pencils imbedded in the barrel of the pencil.  Thick lacquer paint job, though not quite as 'perfect' as the Hi-Uni.  It feels ever so slightly bumpy-er, not quite as glassy and perfectly smooth (though just barely not).
 
 ![Mitsubishi Uni HB Pencil Side](/assets/img/blog-images/mitsubishi-uni-hb-pencil/pencil-side.jpg)
 
@@ -46,7 +46,7 @@ I'm like this with the [Tombow Mono](https://www.tombow.com/en/products/mono_pen
 
 This is a great pencil overall though.  It's very easy to control if it's going to make a slightly lighter or a darker line, unlike some other Japanese HB pencils I've used.  Very smooth lead, can get pretty dark if you want it, and glides on smooth papers.  For writing it is amazing as well, I wrote a first draft of this review with one on paper and I really enjoyed the smooth writing (I tend to only write with American #2 pencils like a [General's Semi-Hex](https://www.generalpencil.com/store/p37/498.html){:target="_blank"}{:rel="noopener"} or a cheap [USA Gold](http://usagoldpencils.com/products/usa-gold/productsusa-gold24ct-usa-gold-classic-wood-pencils/){:target="_blank"}{:rel="noopener nofollow"} or something).
 
-The case is large, very similar to the Tombow Mono 100 case in how it opens, and it comes with a eraser with a plastic holster which is really fancy. The pencils are held in place with little dividers, which should help your cores from shattering during shipment.  I like the Hi-Uni case the best, but this is nice.
+The case is large, very similar to the Tombow Mono 100 case in how it opens, and it comes with an eraser with a plastic holster which is really fancy. The pencils are held in place with little dividers, which should help your cores from shattering during shipment.  I like the Hi-Uni case the best, but this is nice.
 
 ![Mitsubishi Uni HB Pencil Box](/assets/img/blog-images/mitsubishi-uni-hb-pencil/box-open.jpg){: .half-width}
 
