@@ -14,9 +14,9 @@ description: "Wooden pencil with a HB grade graphite core"
 image: "/assets/img/blog-images/kitaboshi-9500-hb-pencil/pencil-front.jpg"
 ---
 
-![Kita-Boshi 9500 HB Pencil ](/assets/img/blog-images/kitaboshi-9500-hb-pencil/sketch-with-kitaboshi-9500.jpg){: .half-width}
+![Kita-Boshi 9500 HB Pencil and Sketch](/assets/img/blog-images/kitaboshi-9500-hb-pencil/sketch-with-kitaboshi-9500.jpg){: .half-width}
 
-I have gone very, very far down the wooden pencil rabbit hole these last few months. I just purchased a box of "Super Drawing" [Kita-boshi 9500 HB Pencils](http://www.kitaboshi.co.jp/home/#post-64){:target="_blank"}{:rel="noopener"} (love that they mention drawing, most just say some form of writing), and they've been pretty darn great for drawing and sketching thus far.
+I have gone very, very far down the wooden pencil rabbit hole these last few months. I just purchased a box of "Super Drawing" **[Kita-boshi 9500 HB Pencils](http://www.kitaboshi.co.jp/home/#post-64){:target="_blank"}{:rel="noopener"}** (love that they mention drawing, most just say some form of writing), and they've been pretty darn great for drawing and sketching thus far.
 
 <!--more-->
 
@@ -54,6 +54,6 @@ The box isn't the prettiest box I've seen for a Japanese pencil (ususally they a
 
 These pencils are great.  I know of two places you can easily acquire them:  If you want just one, you can snag them at [CW Pencils](https://cwpencils.com/collections/kitaboshi/products/super-drawing-9500-pencil-hb) or at [Thackery](https://www.thethackery.com/default/kitaboshi-9500-drawing-and-retouching-pencil-hb-made-in-japan-pack-of-12.html){:target="_blank"}{:rel="noopener"}, where I ordered a full box of 12 (with some [Mitsubishi Uni](https://www.mpuni.co.jp/products/pencils/black/uni_series/uni.html){:target="_blank"}{:rel="noopener"} [Regular Uni, not [Hi-Uni](https://www.mpuni.co.jp/products/pencils/black/uni_series/hi_uni.html){:target="_blank"}{:rel="noopener"}, which are ridiculously hard to find on the internet] pencils, which I'll review soon).
 
-I'll give the Kita-Boshi 9500 HB Pencil 4 Zaffino Crazy Face Frank's out of 5, only because of the unfinished ends.  Really great looking pencils.
+I'll give the **Kita-Boshi 9500** HB Pencil 4 Zaffino Crazy Face Frank's out of 5, only because of the unfinished ends.  Really great looking pencils.
 
 ![4 out of 5 Stars](/assets/img/blog-images/zaffino-scale-4-star.jpg)
