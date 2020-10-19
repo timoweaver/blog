@@ -14,7 +14,7 @@ tags: [guide]
 
 ![Prismacolor Col-Erase Light Blue Colored Pencil](/assets/img/blog-images/col-erase-light-blue-20068.jpg)
 
-I'll have to edit this whole thing one day, but I recently found these [Prismacolor Col-Erase Light Blue Colored Pencil #20068](https://www.jetpens.com/Prismacolor-Col-Erase-Colored-Pencil-Light-Blue-20068/pd/16338) and they blow everything else here really out of the water.  If you are on the lookout and don't mind a wooden pencil, go ahead and pick this up and try it.  It has the right shade, isn't as shiny and waxxy, not too hard a lead while not too soft either.  It's as close to perfect as I think it can be as a non-photo blue pencil today. The rest of the original post follows:
+I'll have to edit this whole thing one day, but I recently found these [Prismacolor Col-Erase Light Blue Colored Pencil #20068](https://www.jetpens.com/Prismacolor-Col-Erase-Colored-Pencil-Light-Blue-20068/pd/16338) and they blow everything else here really out of the water.  If you are on the lookout and don't mind a wooden pencil, go ahead and pick this up and try it.  It has the right shade, isn't as shiny and waxxy, not too hard a lead while not too soft either. I also just got in the General's Color-Tex Light Blue pencil, and it is absolutely fantastic, and american made in Jersey City! Those are available from [CW Pencils](https://cwpencils.com/collections/colored-pencils/products/colortex-1824t-non-photo-blue-pencil) or [Pencils.com](https://pencils.com/products/generals-color-tex-pencils-12-pack?variant=23947520835684)! These two are as close to perfect as any non-photo blue pencil today. The rest of the original post follows:
 
 ![Non Photo Blue](/assets/img/blog-images/lead-guide.jpg)
 
