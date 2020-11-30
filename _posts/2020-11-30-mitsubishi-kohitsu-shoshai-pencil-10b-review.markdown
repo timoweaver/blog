@@ -30,9 +30,9 @@ This pencil does come in an excessive but cute package for one singular pencil. 
 
 The pencil itself does look nice: the gold paint job, Hi-Uni like details like the rounded dipped ends, or the two gold foil rings (one more than a Hi-Uni!). But does the looks or performance justify the price increase ([$8 at CW Pencils](https://cwpencils.com/products/kohitsu-shosha-pencil-10b) or [$6.09 at The Thackery](https://www.thethackery.com/default/art-supplies/pencils/art-pencils/mitsubishi-uni/mitsubishi-fude-enpitsu-10b-rare-extra-large-lead-made-in-japan-choose-lot-of-1-3-6-or-12-pieces.html) over say a **Mitsubishi Hi-Uni 10B Pencil** that costs $2.50 to $2.75?
 
-![Mitsubishi Kohitsu Shosha Pencil 10B versus the Hi-Uni 10B](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/kohitsu-shoshai-hi-uni-10b-comparrison.jpg){: .half-width}
+![Mitsubishi Kohitsu Shosha Pencil 10B on the left versus the Hi-Uni 10B on the right](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/kohitsu-shoshai-hi-uni-10b-comparrison.jpg){: .half-width}
 
-Not at all.  They perform exactly the same.  Same core widths, same length of pencil (the standard  ferrule and eraser-less 7 inches), and best I can tell, contain the exact same 10B core.
+Not at all.  They perform exactly the same. Above's example shows the Mitsubishi Kohitsu Shosha Pencil in 10B on the left versus the Hi-Uni 10B on the right. Same core widths, same length of pencil (the standard  ferrule and eraser-less 7 inches), and best I can tell, contain the exact same 10B core.
 
 Not to say that this is a bad pencil.  It glides amazingly smooth across paper and leaves a very dark mark with ease. But you could get 2-3 Mitsubishi Hi-Uni 10B's for the same price, or for the price of 3 10B Kohitsu Shosha Pencils you can buy a [12 pack of Mitsubishi Hi-Uni 10B Pencils from JetPens](https://www.jetpens.com/Uni-Mitsubishi-Hi-Uni-Pencil-10B-Box-of-12/pd/3517).
 
