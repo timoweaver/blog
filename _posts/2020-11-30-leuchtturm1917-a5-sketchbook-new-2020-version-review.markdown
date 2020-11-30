@@ -22,7 +22,7 @@ I tried their first sketchbook back in 2016, and I just wasn't a fan.  It had a 
 
 <!--more-->
 
-![Leuchtturm1917 Sketchbook Medium A5 Inside Cover](/assets/img/blog-images/leuchtturm1917-sketchbook/inside-cover.jpg)
+![Leuchtturm1917 Sketchbook Medium A5 Inside Cover](/assets/img/blog-images/leuchtturm1917-sketchbook/sketchbook-inside-cover.jpg)
 
 Similar to Moleskine, it has a name and address area on the inside front cover, as well as having a inside pocket on the inside back cover of the book.  It has a glued in ribbon for keeping your spot in the sketchbook, rounded corners, hardcover construction, the elastic band to keep it shut, and as an extra it comes with stickers for labeling the book for the shelf when you are done.
 
@@ -36,7 +36,7 @@ It's also 150 GSM versus the previous 180 GSM.  I don't remember how much of an 
 
 As a plus, this sketchbook does have an extra few pages compared to the previous one (112 pages versus 96), so that's a win at least.
 
-![Leuchtturm1917 Sketchbook Medium A5 back Cover](/assets/img/blog-images/leuchtturm1917-sketchbook/back-cover.jpg){: .half-width}
+![Leuchtturm1917 Sketchbook Medium A5 back Cover](/assets/img/blog-images/leuchtturm1917-sketchbook/sketchbook-back.jpg){: .half-width}
 
 I'm just not too thrilled about this sketchbook, for me at least.  If you are a big fan of dry brush effects when inking, or if you're big on dry media, this might be the sketchbook for you.  But between the issues with dry brushing, ghosting from page to page, and just having a little more tooth than I wanted, I'm going to have to give the **Leuchtturm1917 A5 Sketchbook New 2020 Version** a rating of **3 Zaffino Crazy Face Franks our of 5**.  Just know what you are getting into before you buy.
 
