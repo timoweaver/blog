@@ -16,7 +16,9 @@ image: "/assets/img/blog-images/leuchtturm1917-sketchbook/sketchbook-front.jpg"
 
 ![Leuchtturm1917 Sketchbook Medium A5 Black](/assets/img/blog-images/leuchtturm1917-sketchbook/sketchbook-front.jpg){: .half-width}
 
-I really love the [Leuchtturm1917 Plain Journal](review/2020/04/21/leuchtturm1917-plain-journal-review.html) lately.  It's what I've been drawing in for the last month, and I've just grown to love the paper, the way it handles ink, and how pencil even feels on it.  I even prefer it to those [Moleskine Cahier's I reviewed a while back](/review/2020/09/16/moleskine-cahier-journal-large-plain-brown-kraft-review.html). So when I saw that Leuchtturm1917 put out a new 2020 revision to their [a5 Sketchbook](https://www.leuchtturm1917.us/sketchbook-medium-a5-hardcover-112-pages-150-g-sqm-plain-black.html), I wanted to try it out.  I tried their first sketchbook back in 2016, and I just wasn't a fan.  It had a lot of issues with feathering ink in my experience.  Would I like this one any more than the old version?
+I really love drawing in the [Leuchtturm1917 Plain Journal](review/2020/04/21/leuchtturm1917-plain-journal-review.html) lately.  I've been using it for the last month, and I've just grown to love the paper. The way it handles ink and pencil is really amazing, I just wish the paper was thicker because it folds and creases easily, especially when erasing.  I even prefer it to those [Moleskine Cahier's I reviewed a while back](/review/2020/09/16/moleskine-cahier-journal-large-plain-brown-kraft-review.html). So when I saw that Leuchtturm1917 put out a new 2020 revision to their [a5 Sketchbook](https://www.leuchtturm1917.us/sketchbook-medium-a5-hardcover-112-pages-150-g-sqm-plain-black.html), I wanted to try it out.
+
+I tried their first sketchbook back in 2016, and I just wasn't a fan.  It had a lot of issues with feathering ink in my experience.  Would I like this one any more than the old version?
 
 <!--more-->
 
