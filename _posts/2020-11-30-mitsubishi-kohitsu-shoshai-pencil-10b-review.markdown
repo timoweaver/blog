@@ -32,14 +32,11 @@ The pencil itself does look nice: the gold paint job, Hi-Uni like details like t
 
 ![Mitsubishi Kohitsu Shosha Pencil 10B versus the Hi-Uni 10B](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/kohitsu-shoshai-hi-uni-10b-comparrison.jpg){: .half-width}
 
-No.  Not at all.  The best I can tell, they perform exactly the same.  Same core widths, same length of pencil (Standard 7 inches), and best I can tell the exact same 10B core.
+No.  Not at all.  The best I can tell, they perform exactly the same.  Same core widths, same length of pencil (the standard  ferrule and eraser-less 7 inches), and best I can tell the exact same 10B core.
 
-Not to say that this is a bad pencil.  It's really nice, it glides amazingly smooth, and leaves an easy dark mark on the page. But you could get 2-3 Mitsubishi Hi-Uni 10B's for the same price depending on where you are buying this, or for the price of 3 10B Kohitsu Shosha Pencils you can now buy a ![12 pack of Mitsubishi Hi-Uni 10B Pencils from JetPens](https://www.jetpens.com/Uni-Mitsubishi-Hi-Uni-Pencil-10B-Box-of-12/pd/3517).
+Not to say that this is a bad pencil.  It's really nice, it glides amazingly smooth, and leaves an easy dark mark on the page. But you could get 2-3 Mitsubishi Hi-Uni 10B's for the same price depending on where you are buying this, or for the price of 3 10B Kohitsu Shosha Pencils you can now buy a [12 pack of Mitsubishi Hi-Uni 10B Pencils from JetPens](https://www.jetpens.com/Uni-Mitsubishi-Hi-Uni-Pencil-10B-Box-of-12/pd/3517).
 
- ![Mitsubishi Kohitsu Shosha Pencil 10B front core photo](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/core-front.jpg){: .half-width}
+![Mitsubishi Kohitsu Shosha Pencil 10B side picture](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/core-side.jpg){: .half-width}
 
-
-  ![Mitsubishi Kohitsu Shosha Pencil 10B side picture](/assets/img/blog-images/mitsubishi-kohitsu-shoshai-pencil-10b/core-side.jpg){: .half-width}
-
-Should you buy this pencil?  If you are curious, I mean why the hell not?  I had a hard enough time not trying it.  But if you already have a Hi-Uni 10B, you pretty much already have this pencil at a half to a third of the cost, minumum.  Because of this, I have to give the **Mitsubishi Kohitsu Shosha Pencil in 10B** 2 Zaffino Crazy Face Franks out of 5.
+Should you buy this pencil?  If you are curious, I mean why the hell not?  I had a hard enough time not trying it.  But if you already have a Hi-Uni 10B, you pretty much already have this pencil at a half to a third of the cost, minumum.  Because of this, I have to give the **Mitsubishi Kohitsu Shosha Pencil in 10B** the final score of **2 Zaffino Crazy Face Franks out of 5**.
 ![2 out of 5 Stars](/assets/img/blog-images/zaffino-scale-2-star.jpg)
